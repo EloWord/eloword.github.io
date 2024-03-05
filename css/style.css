@@ -25,3 +25,11 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+.header {
+    text-align: center;
+}
+
+.header img {
+    display: inline;
+}
