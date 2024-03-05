@@ -22,14 +22,10 @@ body {
 }
 
 .header img {
-    display: block;
+    display: inline;
     margin: 0 auto;
 }
 
 .header {
     text-align: center;
-}
-
-.header img {
-    display: inline;
 }
