@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+#menu {
+    position: fixed;
+    left: 0;
+    width: 200px;
+    height: 100%;
+    overflow: auto;
+}
+.content {
+    margin-left: 200px;
+    padding: 20px;
+}
